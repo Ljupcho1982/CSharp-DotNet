@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "80ef80f0-2ce4-4cb8-89a3-1b259d654152": {
+      "ProjectGuid": "80ef80f0-2ce4-4cb8-89a3-1b259d654152",
+      "DisplayName": "Vocabulary",
+      "ColorIndex": 0
+    },
+    "d3f39bb2-8a58-4b41-b16e-84d8cbf1c534": {
+      "ProjectGuid": "d3f39bb2-8a58-4b41-b16e-84d8cbf1c534",
+      "DisplayName": "ConsoleApp1",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
