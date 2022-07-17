@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "Control_Fllow_Statements_and_Loops": {
+      "commandName": "Project"
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "environmentVariables": {},
+      "distributionName": ""
+    }
+  }
+}
