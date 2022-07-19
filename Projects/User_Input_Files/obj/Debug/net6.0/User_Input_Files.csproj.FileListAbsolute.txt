@@ -1,0 +1,15 @@
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\User_Input_Files\bin\Debug\net6.0\User_Input_Files.exe
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\User_Input_Files\bin\Debug\net6.0\User_Input_Files.deps.json
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\User_Input_Files\bin\Debug\net6.0\User_Input_Files.runtimeconfig.json
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\User_Input_Files\bin\Debug\net6.0\User_Input_Files.dll
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\User_Input_Files\bin\Debug\net6.0\ref\User_Input_Files.dll
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\User_Input_Files\bin\Debug\net6.0\User_Input_Files.pdb
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\User_Input_Files\obj\Debug\net6.0\User_Input_Files.csproj.AssemblyReference.cache
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\User_Input_Files\obj\Debug\net6.0\User_Input_Files.GeneratedMSBuildEditorConfig.editorconfig
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\User_Input_Files\obj\Debug\net6.0\User_Input_Files.AssemblyInfoInputs.cache
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\User_Input_Files\obj\Debug\net6.0\User_Input_Files.AssemblyInfo.cs
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\User_Input_Files\obj\Debug\net6.0\User_Input_Files.csproj.CoreCompileInputs.cache
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\User_Input_Files\obj\Debug\net6.0\User_Input_Files.dll
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\User_Input_Files\obj\Debug\net6.0\ref\User_Input_Files.dll
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\User_Input_Files\obj\Debug\net6.0\User_Input_Files.pdb
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\User_Input_Files\obj\Debug\net6.0\User_Input_Files.genruntimeconfig.cache
