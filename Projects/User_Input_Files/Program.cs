@@ -18,6 +18,9 @@ while (userInput != 'z')
         case 'w':
             Console.BackgroundColor = ConsoleColor.White;
             break;
+        case 'b':
+            Console.BackgroundColor = ConsoleColor.Blue;
+            break;
         default:
             break;
        
@@ -25,5 +28,7 @@ while (userInput != 'z')
     }
     Console.Clear();
 
-   
+    Console.WriteLine("g=green,r=red, b=blue,w=white");
+    y = Console.Read();
+    userInput = Convert.ToChar(y);
 }
