@@ -1,0 +1,15 @@
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Obtain user numeric number\obj\Debug\net6.0\Obtain user numeric number.csproj.AssemblyReference.cache
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Obtain user numeric number\obj\Debug\net6.0\Obtain user numeric number.GeneratedMSBuildEditorConfig.editorconfig
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Obtain user numeric number\obj\Debug\net6.0\Obtain user numeric number.AssemblyInfoInputs.cache
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Obtain user numeric number\obj\Debug\net6.0\Obtain user numeric number.AssemblyInfo.cs
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Obtain user numeric number\obj\Debug\net6.0\Obtain user numeric number.csproj.CoreCompileInputs.cache
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Obtain user numeric number\bin\Debug\net6.0\Obtain user numeric number.exe
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Obtain user numeric number\bin\Debug\net6.0\Obtain user numeric number.deps.json
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Obtain user numeric number\bin\Debug\net6.0\Obtain user numeric number.runtimeconfig.json
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Obtain user numeric number\bin\Debug\net6.0\Obtain user numeric number.dll
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Obtain user numeric number\bin\Debug\net6.0\ref\Obtain user numeric number.dll
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Obtain user numeric number\bin\Debug\net6.0\Obtain user numeric number.pdb
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Obtain user numeric number\obj\Debug\net6.0\Obtain user numeric number.dll
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Obtain user numeric number\obj\Debug\net6.0\ref\Obtain user numeric number.dll
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Obtain user numeric number\obj\Debug\net6.0\Obtain user numeric number.pdb
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Obtain user numeric number\obj\Debug\net6.0\Obtain user numeric number.genruntimeconfig.cache
