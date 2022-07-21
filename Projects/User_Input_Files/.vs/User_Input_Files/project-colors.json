@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "64bdbb19-206a-433f-ae76-fc6b4dfb710a": {
+      "ProjectGuid": "64bdbb19-206a-433f-ae76-fc6b4dfb710a",
+      "DisplayName": "User_Input_Files",
+      "ColorIndex": 0
+    },
+    "8af3e3c3-7512-4cf4-b5aa-e41ba614369e": {
+      "ProjectGuid": "8af3e3c3-7512-4cf4-b5aa-e41ba614369e",
+      "DisplayName": "ReadKey",
+      "ColorIndex": 1
+    },
+    "266f90fc-fb30-4e37-849e-17643cf69ca4": {
+      "ProjectGuid": "266f90fc-fb30-4e37-849e-17643cf69ca4",
+      "DisplayName": "Obtain user numeric number",
+      "ColorIndex": 2
+    },
+    "eb9d8651-c3d5-497f-b6c0-947b284fe6e6": {
+      "ProjectGuid": "eb9d8651-c3d5-497f-b6c0-947b284fe6e6",
+      "DisplayName": "Working with Files",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

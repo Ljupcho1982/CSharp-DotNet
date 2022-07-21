@@ -1,0 +1,5 @@
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\9. Building Tic-Tac-Toe in\obj\Debug\net6.0\9. Building Tic-Tac-Toe in.csproj.AssemblyReference.cache
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\9. Building Tic-Tac-Toe in\obj\Debug\net6.0\9. Building Tic-Tac-Toe in.GeneratedMSBuildEditorConfig.editorconfig
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\9. Building Tic-Tac-Toe in\obj\Debug\net6.0\9. Building Tic-Tac-Toe in.AssemblyInfoInputs.cache
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\9. Building Tic-Tac-Toe in\obj\Debug\net6.0\9. Building Tic-Tac-Toe in.AssemblyInfo.cs
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\9. Building Tic-Tac-Toe in\obj\Debug\net6.0\9. Building Tic-Tac-Toe in.csproj.CoreCompileInputs.cache
