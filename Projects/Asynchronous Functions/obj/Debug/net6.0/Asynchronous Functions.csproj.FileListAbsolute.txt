@@ -1,0 +1,15 @@
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Asynchronous Functions\obj\Debug\net6.0\Asynchronous Functions.csproj.AssemblyReference.cache
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Asynchronous Functions\obj\Debug\net6.0\Asynchronous Functions.GeneratedMSBuildEditorConfig.editorconfig
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Asynchronous Functions\obj\Debug\net6.0\Asynchronous Functions.AssemblyInfoInputs.cache
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Asynchronous Functions\obj\Debug\net6.0\Asynchronous Functions.AssemblyInfo.cs
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Asynchronous Functions\obj\Debug\net6.0\Asynchronous Functions.csproj.CoreCompileInputs.cache
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Asynchronous Functions\bin\Debug\net6.0\Asynchronous Functions.exe
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Asynchronous Functions\bin\Debug\net6.0\Asynchronous Functions.deps.json
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Asynchronous Functions\bin\Debug\net6.0\Asynchronous Functions.runtimeconfig.json
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Asynchronous Functions\bin\Debug\net6.0\Asynchronous Functions.dll
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Asynchronous Functions\bin\Debug\net6.0\ref\Asynchronous Functions.dll
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Asynchronous Functions\bin\Debug\net6.0\Asynchronous Functions.pdb
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Asynchronous Functions\obj\Debug\net6.0\Asynchronous Functions.dll
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Asynchronous Functions\obj\Debug\net6.0\ref\Asynchronous Functions.dll
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Asynchronous Functions\obj\Debug\net6.0\Asynchronous Functions.pdb
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Asynchronous Functions\obj\Debug\net6.0\Asynchronous Functions.genruntimeconfig.cache
