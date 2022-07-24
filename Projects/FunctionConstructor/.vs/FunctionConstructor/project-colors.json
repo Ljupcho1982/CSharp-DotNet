@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "28d51dd7-a504-4ddf-afcc-5ebcfa83a52c": {
+      "ProjectGuid": "28d51dd7-a504-4ddf-afcc-5ebcfa83a52c",
+      "DisplayName": "FunctionConstructor",
+      "ColorIndex": 0
+    },
+    "41af47e4-caeb-49f8-aa48-dd3fbf9d17f3": {
+      "ProjectGuid": "41af47e4-caeb-49f8-aa48-dd3fbf9d17f3",
+      "DisplayName": "Finalizers",
+      "ColorIndex": 1
+    },
+    "69f47236-2124-4f99-a79e-a91d227bb7ea": {
+      "ProjectGuid": "69f47236-2124-4f99-a79e-a91d227bb7ea",
+      "DisplayName": "Properties",
+      "ColorIndex": 2
+    },
+    "014f8ea0-b55a-4d47-92a7-a0ccda8fc3c4": {
+      "ProjectGuid": "014f8ea0-b55a-4d47-92a7-a0ccda8fc3c4",
+      "DisplayName": "Attributes",
+      "ColorIndex": 3
+    },
+    "e0548105-7ec0-4ed6-b9af-af26be19a16c": {
+      "ProjectGuid": "e0548105-7ec0-4ed6-b9af-af26be19a16c",
+      "DisplayName": "Anonymous Functions and Lambda Expressions",
+      "ColorIndex": 4
+    },
+    "149db7ca-2992-4529-ba8b-ce7c8a95ce66": {
+      "ProjectGuid": "149db7ca-2992-4529-ba8b-ce7c8a95ce66",
+      "DisplayName": "FuncTResult",
+      "ColorIndex": 5
+    },
+    "135f8ced-2e01-4706-9b9f-c8199395b618": {
+      "ProjectGuid": "135f8ced-2e01-4706-9b9f-c8199395b618",
+      "DisplayName": "OverLoad",
+      "ColorIndex": 6
+    },
+    "82e8faa0-ad24-402a-8a30-0393e43696dc": {
+      "ProjectGuid": "82e8faa0-ad24-402a-8a30-0393e43696dc",
+      "DisplayName": "Person",
+      "ColorIndex": 7
+    },
+    "4f1d9c6e-5d8c-42f4-a8cc-c9c31274f17e": {
+      "ProjectGuid": "4f1d9c6e-5d8c-42f4-a8cc-c9c31274f17e",
+      "DisplayName": "Overriding",
+      "ColorIndex": 8
+    }
+  },
+  "NextColorIndex": 9
+}

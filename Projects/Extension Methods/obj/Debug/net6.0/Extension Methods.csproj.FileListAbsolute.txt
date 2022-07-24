@@ -1,0 +1,15 @@
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Extension Methods\bin\Debug\net6.0\Extension Methods.exe
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Extension Methods\bin\Debug\net6.0\Extension Methods.deps.json
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Extension Methods\bin\Debug\net6.0\Extension Methods.runtimeconfig.json
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Extension Methods\bin\Debug\net6.0\Extension Methods.dll
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Extension Methods\bin\Debug\net6.0\ref\Extension Methods.dll
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Extension Methods\bin\Debug\net6.0\Extension Methods.pdb
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Extension Methods\obj\Debug\net6.0\Extension Methods.csproj.AssemblyReference.cache
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Extension Methods\obj\Debug\net6.0\Extension Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Extension Methods\obj\Debug\net6.0\Extension Methods.AssemblyInfoInputs.cache
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Extension Methods\obj\Debug\net6.0\Extension Methods.AssemblyInfo.cs
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Extension Methods\obj\Debug\net6.0\Extension Methods.csproj.CoreCompileInputs.cache
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Extension Methods\obj\Debug\net6.0\Extension Methods.dll
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Extension Methods\obj\Debug\net6.0\ref\Extension Methods.dll
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Extension Methods\obj\Debug\net6.0\Extension Methods.pdb
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Extension Methods\obj\Debug\net6.0\Extension Methods.genruntimeconfig.cache

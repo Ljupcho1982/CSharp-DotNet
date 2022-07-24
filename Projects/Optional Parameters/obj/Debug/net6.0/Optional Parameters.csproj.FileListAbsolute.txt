@@ -1,0 +1,15 @@
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Optional Parameters\bin\Debug\net6.0\Optional Parameters.exe
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Optional Parameters\bin\Debug\net6.0\Optional Parameters.deps.json
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Optional Parameters\bin\Debug\net6.0\Optional Parameters.runtimeconfig.json
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Optional Parameters\bin\Debug\net6.0\Optional Parameters.dll
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Optional Parameters\bin\Debug\net6.0\ref\Optional Parameters.dll
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Optional Parameters\bin\Debug\net6.0\Optional Parameters.pdb
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Optional Parameters\obj\Debug\net6.0\Optional Parameters.csproj.AssemblyReference.cache
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Optional Parameters\obj\Debug\net6.0\Optional Parameters.GeneratedMSBuildEditorConfig.editorconfig
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Optional Parameters\obj\Debug\net6.0\Optional Parameters.AssemblyInfoInputs.cache
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Optional Parameters\obj\Debug\net6.0\Optional Parameters.AssemblyInfo.cs
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Optional Parameters\obj\Debug\net6.0\Optional Parameters.csproj.CoreCompileInputs.cache
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Optional Parameters\obj\Debug\net6.0\Optional Parameters.dll
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Optional Parameters\obj\Debug\net6.0\ref\Optional Parameters.dll
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Optional Parameters\obj\Debug\net6.0\Optional Parameters.pdb
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Optional Parameters\obj\Debug\net6.0\Optional Parameters.genruntimeconfig.cache

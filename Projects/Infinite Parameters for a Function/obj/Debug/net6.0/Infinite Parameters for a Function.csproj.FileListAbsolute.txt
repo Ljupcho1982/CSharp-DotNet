@@ -1,0 +1,15 @@
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Infinite Parameters for a Function\bin\Debug\net6.0\Infinite Parameters for a Function.exe
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Infinite Parameters for a Function\bin\Debug\net6.0\Infinite Parameters for a Function.deps.json
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Infinite Parameters for a Function\bin\Debug\net6.0\Infinite Parameters for a Function.runtimeconfig.json
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Infinite Parameters for a Function\bin\Debug\net6.0\Infinite Parameters for a Function.dll
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Infinite Parameters for a Function\bin\Debug\net6.0\ref\Infinite Parameters for a Function.dll
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Infinite Parameters for a Function\bin\Debug\net6.0\Infinite Parameters for a Function.pdb
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Infinite Parameters for a Function\obj\Debug\net6.0\Infinite Parameters for a Function.csproj.AssemblyReference.cache
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Infinite Parameters for a Function\obj\Debug\net6.0\Infinite Parameters for a Function.GeneratedMSBuildEditorConfig.editorconfig
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Infinite Parameters for a Function\obj\Debug\net6.0\Infinite Parameters for a Function.AssemblyInfoInputs.cache
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Infinite Parameters for a Function\obj\Debug\net6.0\Infinite Parameters for a Function.AssemblyInfo.cs
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Infinite Parameters for a Function\obj\Debug\net6.0\Infinite Parameters for a Function.csproj.CoreCompileInputs.cache
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Infinite Parameters for a Function\obj\Debug\net6.0\Infinite Parameters for a Function.dll
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Infinite Parameters for a Function\obj\Debug\net6.0\ref\Infinite Parameters for a Function.dll
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Infinite Parameters for a Function\obj\Debug\net6.0\Infinite Parameters for a Function.pdb
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Infinite Parameters for a Function\obj\Debug\net6.0\Infinite Parameters for a Function.genruntimeconfig.cache
