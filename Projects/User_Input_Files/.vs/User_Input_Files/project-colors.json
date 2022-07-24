@@ -20,7 +20,22 @@
       "ProjectGuid": "eb9d8651-c3d5-497f-b6c0-947b284fe6e6",
       "DisplayName": "Working with Files",
       "ColorIndex": 3
+    },
+    "f5211a81-ff35-467d-8a45-63d52b716fe7": {
+      "ProjectGuid": "f5211a81-ff35-467d-8a45-63d52b716fe7",
+      "DisplayName": "9. Building Tic-Tac-Toe in",
+      "ColorIndex": 4
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "89b8d6f8-a739-4600-adac-ca30d2c06e6f": {
+      "ProjectGuid": "89b8d6f8-a739-4600-adac-ca30d2c06e6f",
+      "DisplayName": "Tic tac toe",
+      "ColorIndex": 5
     }
   },
-  "NextColorIndex": 4
+  "NextColorIndex": 6
 }

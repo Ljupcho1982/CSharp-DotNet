@@ -1,0 +1,15 @@
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\FuncTResult\obj\Debug\net6.0\FuncTResult.csproj.AssemblyReference.cache
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\FuncTResult\obj\Debug\net6.0\FuncTResult.GeneratedMSBuildEditorConfig.editorconfig
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\FuncTResult\obj\Debug\net6.0\FuncTResult.AssemblyInfoInputs.cache
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\FuncTResult\obj\Debug\net6.0\FuncTResult.AssemblyInfo.cs
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\FuncTResult\obj\Debug\net6.0\FuncTResult.csproj.CoreCompileInputs.cache
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\FuncTResult\bin\Debug\net6.0\FuncTResult.exe
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\FuncTResult\bin\Debug\net6.0\FuncTResult.deps.json
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\FuncTResult\bin\Debug\net6.0\FuncTResult.runtimeconfig.json
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\FuncTResult\bin\Debug\net6.0\FuncTResult.dll
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\FuncTResult\bin\Debug\net6.0\ref\FuncTResult.dll
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\FuncTResult\bin\Debug\net6.0\FuncTResult.pdb
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\FuncTResult\obj\Debug\net6.0\FuncTResult.dll
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\FuncTResult\obj\Debug\net6.0\ref\FuncTResult.dll
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\FuncTResult\obj\Debug\net6.0\FuncTResult.pdb
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\FuncTResult\obj\Debug\net6.0\FuncTResult.genruntimeconfig.cache

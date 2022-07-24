@@ -1,0 +1,14 @@
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Anonymous Functions and Lambda Expressions\bin\Debug\net6.0\Anonymous Functions and Lambda Expressions.exe
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Anonymous Functions and Lambda Expressions\bin\Debug\net6.0\Anonymous Functions and Lambda Expressions.deps.json
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Anonymous Functions and Lambda Expressions\bin\Debug\net6.0\Anonymous Functions and Lambda Expressions.runtimeconfig.json
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Anonymous Functions and Lambda Expressions\bin\Debug\net6.0\Anonymous Functions and Lambda Expressions.dll
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Anonymous Functions and Lambda Expressions\bin\Debug\net6.0\ref\Anonymous Functions and Lambda Expressions.dll
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Anonymous Functions and Lambda Expressions\bin\Debug\net6.0\Anonymous Functions and Lambda Expressions.pdb
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Anonymous Functions and Lambda Expressions\obj\Debug\net6.0\Anonymous Functions and Lambda Expressions.GeneratedMSBuildEditorConfig.editorconfig
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Anonymous Functions and Lambda Expressions\obj\Debug\net6.0\Anonymous Functions and Lambda Expressions.AssemblyInfoInputs.cache
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Anonymous Functions and Lambda Expressions\obj\Debug\net6.0\Anonymous Functions and Lambda Expressions.AssemblyInfo.cs
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Anonymous Functions and Lambda Expressions\obj\Debug\net6.0\Anonymous Functions and Lambda Expressions.csproj.CoreCompileInputs.cache
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Anonymous Functions and Lambda Expressions\obj\Debug\net6.0\Anonymous Functions and Lambda Expressions.dll
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Anonymous Functions and Lambda Expressions\obj\Debug\net6.0\ref\Anonymous Functions and Lambda Expressions.dll
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Anonymous Functions and Lambda Expressions\obj\Debug\net6.0\Anonymous Functions and Lambda Expressions.pdb
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Anonymous Functions and Lambda Expressions\obj\Debug\net6.0\Anonymous Functions and Lambda Expressions.genruntimeconfig.cache

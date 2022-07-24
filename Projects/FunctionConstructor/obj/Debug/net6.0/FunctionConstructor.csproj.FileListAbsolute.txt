@@ -1,0 +1,15 @@
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\FunctionConstructor\bin\Debug\net6.0\FunctionConstructor.exe
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\FunctionConstructor\bin\Debug\net6.0\FunctionConstructor.deps.json
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\FunctionConstructor\bin\Debug\net6.0\FunctionConstructor.runtimeconfig.json
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\FunctionConstructor\bin\Debug\net6.0\FunctionConstructor.dll
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\FunctionConstructor\bin\Debug\net6.0\ref\FunctionConstructor.dll
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\FunctionConstructor\bin\Debug\net6.0\FunctionConstructor.pdb
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\FunctionConstructor\obj\Debug\net6.0\FunctionConstructor.csproj.AssemblyReference.cache
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\FunctionConstructor\obj\Debug\net6.0\FunctionConstructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\FunctionConstructor\obj\Debug\net6.0\FunctionConstructor.AssemblyInfoInputs.cache
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\FunctionConstructor\obj\Debug\net6.0\FunctionConstructor.AssemblyInfo.cs
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\FunctionConstructor\obj\Debug\net6.0\FunctionConstructor.csproj.CoreCompileInputs.cache
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\FunctionConstructor\obj\Debug\net6.0\FunctionConstructor.dll
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\FunctionConstructor\obj\Debug\net6.0\ref\FunctionConstructor.dll
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\FunctionConstructor\obj\Debug\net6.0\FunctionConstructor.pdb
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\FunctionConstructor\obj\Debug\net6.0\FunctionConstructor.genruntimeconfig.cache
