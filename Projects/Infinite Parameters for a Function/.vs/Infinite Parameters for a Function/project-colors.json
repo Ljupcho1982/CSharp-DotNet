@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a847650f-1739-4764-ab22-86b83540f397": {
+      "ProjectGuid": "a847650f-1739-4764-ab22-86b83540f397",
+      "DisplayName": "Infinite Parameters for a Function",
+      "ColorIndex": 0
+    },
+    "f0919e41-4b2d-4574-abd0-ee82385318c0": {
+      "ProjectGuid": "f0919e41-4b2d-4574-abd0-ee82385318c0",
+      "DisplayName": "Optional Parameters",
+      "ColorIndex": 1
+    },
+    "48493beb-e3f2-446e-a580-88c63afb59fc": {
+      "ProjectGuid": "48493beb-e3f2-446e-a580-88c63afb59fc",
+      "DisplayName": "Extension Methods",
+      "ColorIndex": 2
+    },
+    "a6c32b49-2292-4b6a-9b05-cc5f905cf561": {
+      "ProjectGuid": "a6c32b49-2292-4b6a-9b05-cc5f905cf561",
+      "DisplayName": "Asynchronous Functions",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

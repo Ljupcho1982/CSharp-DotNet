@@ -1,0 +1,5 @@
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Data_Structures_Collections\Data_Structures_Collections\obj\Debug\net6.0\Data_Structures_Collections.csproj.AssemblyReference.cache
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Data_Structures_Collections\Data_Structures_Collections\obj\Debug\net6.0\Data_Structures_Collections.GeneratedMSBuildEditorConfig.editorconfig
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Data_Structures_Collections\Data_Structures_Collections\obj\Debug\net6.0\Data_Structures_Collections.AssemblyInfoInputs.cache
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Data_Structures_Collections\Data_Structures_Collections\obj\Debug\net6.0\Data_Structures_Collections.AssemblyInfo.cs
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Data_Structures_Collections\Data_Structures_Collections\obj\Debug\net6.0\Data_Structures_Collections.csproj.CoreCompileInputs.cache
