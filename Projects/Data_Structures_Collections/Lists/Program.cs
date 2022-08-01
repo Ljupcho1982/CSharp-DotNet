@@ -47,6 +47,11 @@ Console.WriteLine(numbers1.LastIndexOf(3));
 
 Console.WriteLine(numbers1.FindLast(x=>x<3));
 
-List<object> multiTypeList = new List<object>() { 1, "D", false };
+List<object> multiTypeList = new List<object>() { 1, "D","Ljupcho", false };
 
-Console.WriteLine(multiTypeList);
+static void PrintObject(object obj)
+{
+    Console.WriteLine(obj);
+}
+
+multiTypeList.ForEach(PrintObject);
