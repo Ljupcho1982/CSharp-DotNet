@@ -1,0 +1,15 @@
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Data_Structures_Collections\Lists\obj\Debug\net6.0\Lists.csproj.AssemblyReference.cache
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Data_Structures_Collections\Lists\obj\Debug\net6.0\Lists.GeneratedMSBuildEditorConfig.editorconfig
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Data_Structures_Collections\Lists\obj\Debug\net6.0\Lists.AssemblyInfoInputs.cache
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Data_Structures_Collections\Lists\obj\Debug\net6.0\Lists.AssemblyInfo.cs
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Data_Structures_Collections\Lists\obj\Debug\net6.0\Lists.csproj.CoreCompileInputs.cache
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Data_Structures_Collections\Lists\bin\Debug\net6.0\Lists.exe
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Data_Structures_Collections\Lists\bin\Debug\net6.0\Lists.deps.json
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Data_Structures_Collections\Lists\bin\Debug\net6.0\Lists.runtimeconfig.json
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Data_Structures_Collections\Lists\bin\Debug\net6.0\Lists.dll
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Data_Structures_Collections\Lists\bin\Debug\net6.0\ref\Lists.dll
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Data_Structures_Collections\Lists\bin\Debug\net6.0\Lists.pdb
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Data_Structures_Collections\Lists\obj\Debug\net6.0\Lists.dll
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Data_Structures_Collections\Lists\obj\Debug\net6.0\ref\Lists.dll
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Data_Structures_Collections\Lists\obj\Debug\net6.0\Lists.pdb
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Data_Structures_Collections\Lists\obj\Debug\net6.0\Lists.genruntimeconfig.cache
