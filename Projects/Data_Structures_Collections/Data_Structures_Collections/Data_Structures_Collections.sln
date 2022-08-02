@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "struct", "..\struct\struct.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enums", "..\Enums\Enums.csproj", "{D11B31A8-9D7B-4C9B-BF81-C6833051656B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dictionaries", "..\Dictionaries\Dictionaries.csproj", "{DF6DDA95-9FA5-49C1-8A88-D88182D307DD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{D11B31A8-9D7B-4C9B-BF81-C6833051656B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D11B31A8-9D7B-4C9B-BF81-C6833051656B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D11B31A8-9D7B-4C9B-BF81-C6833051656B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF6DDA95-9FA5-49C1-8A88-D88182D307DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF6DDA95-9FA5-49C1-8A88-D88182D307DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF6DDA95-9FA5-49C1-8A88-D88182D307DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF6DDA95-9FA5-49C1-8A88-D88182D307DD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
