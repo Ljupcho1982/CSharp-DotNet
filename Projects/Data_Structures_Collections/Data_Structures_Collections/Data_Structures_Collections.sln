@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stack", "..\Stack\Stack.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Queue", "..\Queue\Queue.csproj", "{FB009902-71F1-4AD5-A513-30930228B57D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "struct", "..\struct\struct.csproj", "{2B1F6AEA-0FF4-4215-9C81-EB4374BCE569}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{FB009902-71F1-4AD5-A513-30930228B57D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FB009902-71F1-4AD5-A513-30930228B57D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FB009902-71F1-4AD5-A513-30930228B57D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B1F6AEA-0FF4-4215-9C81-EB4374BCE569}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B1F6AEA-0FF4-4215-9C81-EB4374BCE569}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B1F6AEA-0FF4-4215-9C81-EB4374BCE569}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B1F6AEA-0FF4-4215-9C81-EB4374BCE569}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
