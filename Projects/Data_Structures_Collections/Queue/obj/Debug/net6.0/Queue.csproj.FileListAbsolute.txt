@@ -1,0 +1,14 @@
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Data_Structures_Collections\Queue\bin\Debug\net6.0\Queue.exe
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Data_Structures_Collections\Queue\bin\Debug\net6.0\Queue.deps.json
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Data_Structures_Collections\Queue\bin\Debug\net6.0\Queue.runtimeconfig.json
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Data_Structures_Collections\Queue\bin\Debug\net6.0\Queue.dll
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Data_Structures_Collections\Queue\bin\Debug\net6.0\ref\Queue.dll
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Data_Structures_Collections\Queue\bin\Debug\net6.0\Queue.pdb
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Data_Structures_Collections\Queue\obj\Debug\net6.0\Queue.GeneratedMSBuildEditorConfig.editorconfig
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Data_Structures_Collections\Queue\obj\Debug\net6.0\Queue.AssemblyInfoInputs.cache
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Data_Structures_Collections\Queue\obj\Debug\net6.0\Queue.AssemblyInfo.cs
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Data_Structures_Collections\Queue\obj\Debug\net6.0\Queue.csproj.CoreCompileInputs.cache
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Data_Structures_Collections\Queue\obj\Debug\net6.0\Queue.dll
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Data_Structures_Collections\Queue\obj\Debug\net6.0\ref\Queue.dll
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Data_Structures_Collections\Queue\obj\Debug\net6.0\Queue.pdb
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Data_Structures_Collections\Queue\obj\Debug\net6.0\Queue.genruntimeconfig.cache
