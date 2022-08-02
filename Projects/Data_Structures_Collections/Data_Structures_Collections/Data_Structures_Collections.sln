@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enums", "..\Enums\Enums.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dictionaries", "..\Dictionaries\Dictionaries.csproj", "{DF6DDA95-9FA5-49C1-8A88-D88182D307DD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HashSets", "..\HashSets\HashSets.csproj", "{ABD9AC98-2827-4D23-B25F-74E9EB3E12E7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{DF6DDA95-9FA5-49C1-8A88-D88182D307DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DF6DDA95-9FA5-49C1-8A88-D88182D307DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DF6DDA95-9FA5-49C1-8A88-D88182D307DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABD9AC98-2827-4D23-B25F-74E9EB3E12E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABD9AC98-2827-4D23-B25F-74E9EB3E12E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABD9AC98-2827-4D23-B25F-74E9EB3E12E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABD9AC98-2827-4D23-B25F-74E9EB3E12E7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
