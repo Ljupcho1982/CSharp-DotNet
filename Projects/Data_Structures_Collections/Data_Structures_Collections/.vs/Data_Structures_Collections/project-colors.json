@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "93562020-8491-4da4-8da2-fd59b99d79a6": {
+      "ProjectGuid": "93562020-8491-4da4-8da2-fd59b99d79a6",
+      "DisplayName": "Data_Structures_Collections",
+      "ColorIndex": 0
+    },
+    "4ce3d065-f0f9-4c43-85be-84ef788d01a4": {
+      "ProjectGuid": "4ce3d065-f0f9-4c43-85be-84ef788d01a4",
+      "DisplayName": "Array",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "e6189109-ca65-4c5a-bce9-01b9976498a4": {
+      "ProjectGuid": "e6189109-ca65-4c5a-bce9-01b9976498a4",
+      "DisplayName": "Lists",
+      "ColorIndex": 2
+    },
+    "949b8cd9-0453-4ef4-9c7d-cf1331a1ea7b": {
+      "ProjectGuid": "949b8cd9-0453-4ef4-9c7d-cf1331a1ea7b",
+      "DisplayName": "Stack",
+      "ColorIndex": 3
+    },
+    "fb009902-71f1-4ad5-a513-30930228b57d": {
+      "ProjectGuid": "fb009902-71f1-4ad5-a513-30930228b57d",
+      "DisplayName": "Queue",
+      "ColorIndex": 4
+    },
+    "2b1f6aea-0ff4-4215-9c81-eb4374bce569": {
+      "ProjectGuid": "2b1f6aea-0ff4-4215-9c81-eb4374bce569",
+      "DisplayName": "struct",
+      "ColorIndex": 5
+    },
+    "d11b31a8-9d7b-4c9b-bf81-c6833051656b": {
+      "ProjectGuid": "d11b31a8-9d7b-4c9b-bf81-c6833051656b",
+      "DisplayName": "Enums",
+      "ColorIndex": 6
+    },
+    "df6dda95-9fa5-49c1-8a88-d88182d307dd": {
+      "ProjectGuid": "df6dda95-9fa5-49c1-8a88-d88182d307dd",
+      "DisplayName": "Dictionaries",
+      "ColorIndex": 7
+    },
+    "abd9ac98-2827-4d23-b25f-74e9eb3e12e7": {
+      "ProjectGuid": "abd9ac98-2827-4d23-b25f-74e9eb3e12e7",
+      "DisplayName": "HashSets",
+      "ColorIndex": 8
+    },
+    "fa1cdd38-5020-4c62-a89e-24e99d37ecc8": {
+      "ProjectGuid": "fa1cdd38-5020-4c62-a89e-24e99d37ecc8",
+      "DisplayName": "SortedList",
+      "ColorIndex": 9
+    },
+    "e8402de0-be6d-46b3-9d23-cd59a3a77b23": {
+      "ProjectGuid": "e8402de0-be6d-46b3-9d23-cd59a3a77b23",
+      "DisplayName": "SortedSets",
+      "ColorIndex": 10
+    },
+    "c8b99c01-5ce2-4d5c-a453-51961870cdab": {
+      "ProjectGuid": "c8b99c01-5ce2-4d5c-a453-51961870cdab",
+      "DisplayName": "Tuples",
+      "ColorIndex": 11
+    }
+  },
+  "NextColorIndex": 12
+}

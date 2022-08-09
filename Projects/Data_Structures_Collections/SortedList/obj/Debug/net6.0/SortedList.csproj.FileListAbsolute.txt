@@ -1,0 +1,14 @@
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Data_Structures_Collections\SortedList\bin\Debug\net6.0\SortedList.exe
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Data_Structures_Collections\SortedList\bin\Debug\net6.0\SortedList.deps.json
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Data_Structures_Collections\SortedList\bin\Debug\net6.0\SortedList.runtimeconfig.json
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Data_Structures_Collections\SortedList\bin\Debug\net6.0\SortedList.dll
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Data_Structures_Collections\SortedList\bin\Debug\net6.0\ref\SortedList.dll
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Data_Structures_Collections\SortedList\bin\Debug\net6.0\SortedList.pdb
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Data_Structures_Collections\SortedList\obj\Debug\net6.0\SortedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Data_Structures_Collections\SortedList\obj\Debug\net6.0\SortedList.AssemblyInfoInputs.cache
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Data_Structures_Collections\SortedList\obj\Debug\net6.0\SortedList.AssemblyInfo.cs
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Data_Structures_Collections\SortedList\obj\Debug\net6.0\SortedList.csproj.CoreCompileInputs.cache
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Data_Structures_Collections\SortedList\obj\Debug\net6.0\SortedList.dll
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Data_Structures_Collections\SortedList\obj\Debug\net6.0\ref\SortedList.dll
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Data_Structures_Collections\SortedList\obj\Debug\net6.0\SortedList.pdb
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Data_Structures_Collections\SortedList\obj\Debug\net6.0\SortedList.genruntimeconfig.cache
