@@ -1,0 +1,15 @@
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Regular_Expressions\bin\Debug\net6.0\Regular_Expressions.exe
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Regular_Expressions\bin\Debug\net6.0\Regular_Expressions.deps.json
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Regular_Expressions\bin\Debug\net6.0\Regular_Expressions.runtimeconfig.json
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Regular_Expressions\bin\Debug\net6.0\Regular_Expressions.dll
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Regular_Expressions\bin\Debug\net6.0\ref\Regular_Expressions.dll
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Regular_Expressions\bin\Debug\net6.0\Regular_Expressions.pdb
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Regular_Expressions\obj\Debug\net6.0\Regular_Expressions.csproj.AssemblyReference.cache
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Regular_Expressions\obj\Debug\net6.0\Regular_Expressions.GeneratedMSBuildEditorConfig.editorconfig
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Regular_Expressions\obj\Debug\net6.0\Regular_Expressions.AssemblyInfoInputs.cache
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Regular_Expressions\obj\Debug\net6.0\Regular_Expressions.AssemblyInfo.cs
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Regular_Expressions\obj\Debug\net6.0\Regular_Expressions.csproj.CoreCompileInputs.cache
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Regular_Expressions\obj\Debug\net6.0\Regular_Expressions.dll
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Regular_Expressions\obj\Debug\net6.0\ref\Regular_Expressions.dll
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Regular_Expressions\obj\Debug\net6.0\Regular_Expressions.pdb
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Regular_Expressions\obj\Debug\net6.0\Regular_Expressions.genruntimeconfig.cache

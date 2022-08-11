@@ -25,7 +25,27 @@
       "ProjectGuid": "d4703d5e-7c2e-4a00-8a26-6992706d5945",
       "DisplayName": "Actions",
       "ColorIndex": 4
+    },
+    "5e5b82eb-3b02-4f62-b339-28312676014d": {
+      "ProjectGuid": "5e5b82eb-3b02-4f62-b339-28312676014d",
+      "DisplayName": "Event",
+      "ColorIndex": 5
+    },
+    "2a147210-8d98-48f0-9741-e7cfffbb3165": {
+      "ProjectGuid": "2a147210-8d98-48f0-9741-e7cfffbb3165",
+      "DisplayName": "Recursion",
+      "ColorIndex": 6
+    },
+    "031deaf0-b726-40f9-afbb-7903f397b41c": {
+      "ProjectGuid": "031deaf0-b726-40f9-afbb-7903f397b41c",
+      "DisplayName": "Fibonacci Sequence",
+      "ColorIndex": 7
+    },
+    "63bb0a20-5878-46e3-be5d-62f7c2dcbe58": {
+      "ProjectGuid": "63bb0a20-5878-46e3-be5d-62f7c2dcbe58",
+      "DisplayName": "Towers of Hanoi",
+      "ColorIndex": 8
     }
   },
-  "NextColorIndex": 5
+  "NextColorIndex": 9
 }
