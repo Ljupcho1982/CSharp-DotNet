@@ -19,7 +19,7 @@ Console.WriteLine(fib(11));
 //with Loop
 
 
-   int fib2(int n)
+  static int fib2(int n)
 {
 
 
@@ -28,7 +28,7 @@ Console.WriteLine(fib(11));
     int last = 1;
     int curPos = 2;
 
-    while (curPos < n)
+    while (curPos <= n)
     {
 
         int temp = last;
@@ -37,10 +37,10 @@ Console.WriteLine(fib(11));
         curPos++;
     }
 
-    return sLast;
+    return last;
 }
 
-Console.WriteLine(fib2(10));
+Console.WriteLine(fib2(11));
     
 
 
