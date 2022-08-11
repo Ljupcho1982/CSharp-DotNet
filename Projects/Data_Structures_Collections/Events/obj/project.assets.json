@@ -1,0 +1,111 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "RhinoMocks/3.6.1": {
+        "type": "package",
+        "compile": {
+          "lib/net/Rhino.Mocks.dll": {}
+        },
+        "runtime": {
+          "lib/net/Rhino.Mocks.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RhinoMocks/3.6.1": {
+      "sha512": "0HjdR7PVVUDz9Db5cLzU0Dquay8MhoCoZ8PJRZOo10Iysq4m+mjl2aaxc4eWztvZ6S1v/NYW5xv1qul0ToN21w==",
+      "type": "package",
+      "path": "rhinomocks/3.6.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net/Rhino.Mocks.dll",
+        "lib/net/Rhino.Mocks.xml",
+        "rhinomocks.3.6.1.nupkg.sha512",
+        "rhinomocks.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "RhinoMocks >= 3.6.1"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Shemov\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\FullStackDevelopment\\CSharp-DotNet\\Ljupcho1982\\CSharp-DotNet\\Projects\\Data_Structures_Collections\\Events\\Events.csproj",
+      "projectName": "Events",
+      "projectPath": "C:\\FullStackDevelopment\\CSharp-DotNet\\Ljupcho1982\\CSharp-DotNet\\Projects\\Data_Structures_Collections\\Events\\Events.csproj",
+      "packagesPath": "C:\\Users\\Shemov\\.nuget\\packages\\",
+      "outputPath": "C:\\FullStackDevelopment\\CSharp-DotNet\\Ljupcho1982\\CSharp-DotNet\\Projects\\Data_Structures_Collections\\Events\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Shemov\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "dependencies": {
+          "RhinoMocks": {
+            "target": "Package",
+            "version": "[3.6.1, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'RhinoMocks 3.6.1' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "libraryId": "RhinoMocks",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}

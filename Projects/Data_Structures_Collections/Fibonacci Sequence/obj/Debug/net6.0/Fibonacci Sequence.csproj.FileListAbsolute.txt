@@ -1,0 +1,14 @@
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Data_Structures_Collections\Fibonacci Sequence\bin\Debug\net6.0\Fibonacci Sequence.exe
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Data_Structures_Collections\Fibonacci Sequence\bin\Debug\net6.0\Fibonacci Sequence.deps.json
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Data_Structures_Collections\Fibonacci Sequence\bin\Debug\net6.0\Fibonacci Sequence.runtimeconfig.json
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Data_Structures_Collections\Fibonacci Sequence\bin\Debug\net6.0\Fibonacci Sequence.dll
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Data_Structures_Collections\Fibonacci Sequence\bin\Debug\net6.0\ref\Fibonacci Sequence.dll
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Data_Structures_Collections\Fibonacci Sequence\bin\Debug\net6.0\Fibonacci Sequence.pdb
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Data_Structures_Collections\Fibonacci Sequence\obj\Debug\net6.0\Fibonacci Sequence.GeneratedMSBuildEditorConfig.editorconfig
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Data_Structures_Collections\Fibonacci Sequence\obj\Debug\net6.0\Fibonacci Sequence.AssemblyInfoInputs.cache
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Data_Structures_Collections\Fibonacci Sequence\obj\Debug\net6.0\Fibonacci Sequence.AssemblyInfo.cs
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Data_Structures_Collections\Fibonacci Sequence\obj\Debug\net6.0\Fibonacci Sequence.csproj.CoreCompileInputs.cache
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Data_Structures_Collections\Fibonacci Sequence\obj\Debug\net6.0\Fibonacci Sequence.dll
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Data_Structures_Collections\Fibonacci Sequence\obj\Debug\net6.0\ref\Fibonacci Sequence.dll
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Data_Structures_Collections\Fibonacci Sequence\obj\Debug\net6.0\Fibonacci Sequence.pdb
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Data_Structures_Collections\Fibonacci Sequence\obj\Debug\net6.0\Fibonacci Sequence.genruntimeconfig.cache

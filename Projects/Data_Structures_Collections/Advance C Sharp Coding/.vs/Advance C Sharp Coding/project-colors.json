@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "bb960c4c-4722-4ba1-96ab-fa0449f82cf6": {
+      "ProjectGuid": "bb960c4c-4722-4ba1-96ab-fa0449f82cf6",
+      "DisplayName": "Advance C Sharp Coding",
+      "ColorIndex": 0
+    },
+    "fa8952b3-5aa0-4465-a546-2eb70f7d3a88": {
+      "ProjectGuid": "fa8952b3-5aa0-4465-a546-2eb70f7d3a88",
+      "DisplayName": "Preprocessor Directives",
+      "ColorIndex": 1
+    },
+    "e7e36a61-4bc8-4c05-b885-b09d5dd211c5": {
+      "ProjectGuid": "e7e36a61-4bc8-4c05-b885-b09d5dd211c5",
+      "DisplayName": "Delegates",
+      "ColorIndex": 2
+    },
+    "edc454e6-23a6-4e92-a718-d814884ac10c": {
+      "ProjectGuid": "edc454e6-23a6-4e92-a718-d814884ac10c",
+      "DisplayName": "Events",
+      "ColorIndex": 3
+    },
+    "d4703d5e-7c2e-4a00-8a26-6992706d5945": {
+      "ProjectGuid": "d4703d5e-7c2e-4a00-8a26-6992706d5945",
+      "DisplayName": "Actions",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

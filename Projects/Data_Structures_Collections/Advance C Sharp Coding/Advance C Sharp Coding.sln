@@ -3,11 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.32126.317
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Advance C Sharp Coding", "Advance C Sharp Coding.csproj", "{BB960C4C-4722-4BA1-96AB-FA0449F82CF6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Advance C Sharp Coding", "Advance C Sharp Coding.csproj", "{BB960C4C-4722-4BA1-96AB-FA0449F82CF6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Preprocessor Directives", "..\ConsoleApp1\Preprocessor Directives.csproj", "{FA8952B3-5AA0-4465-A546-2EB70F7D3A88}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Preprocessor Directives", "..\ConsoleApp1\Preprocessor Directives.csproj", "{FA8952B3-5AA0-4465-A546-2EB70F7D3A88}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegates", "..\Delegates\Delegates.csproj", "{E7E36A61-4BC8-4C05-B885-B09D5DD211C5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Delegates", "..\Delegates\Delegates.csproj", "{E7E36A61-4BC8-4C05-B885-B09D5DD211C5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Actions", "..\Actions\Actions.csproj", "{D4703D5E-7C2E-4A00-8A26-6992706D5945}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Recursion", "..\Recursion\Recursion.csproj", "{2A147210-8D98-48F0-9741-E7CFFFBB3165}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fibonacci Sequence", "..\Fibonacci Sequence\Fibonacci Sequence.csproj", "{031DEAF0-B726-40F9-AFBB-7903F397B41C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +33,18 @@ Global
 		{E7E36A61-4BC8-4C05-B885-B09D5DD211C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E7E36A61-4BC8-4C05-B885-B09D5DD211C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E7E36A61-4BC8-4C05-B885-B09D5DD211C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4703D5E-7C2E-4A00-8A26-6992706D5945}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4703D5E-7C2E-4A00-8A26-6992706D5945}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4703D5E-7C2E-4A00-8A26-6992706D5945}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4703D5E-7C2E-4A00-8A26-6992706D5945}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A147210-8D98-48F0-9741-E7CFFFBB3165}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A147210-8D98-48F0-9741-E7CFFFBB3165}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A147210-8D98-48F0-9741-E7CFFFBB3165}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A147210-8D98-48F0-9741-E7CFFFBB3165}.Release|Any CPU.Build.0 = Release|Any CPU
+		{031DEAF0-B726-40F9-AFBB-7903F397B41C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{031DEAF0-B726-40F9-AFBB-7903F397B41C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{031DEAF0-B726-40F9-AFBB-7903F397B41C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{031DEAF0-B726-40F9-AFBB-7903F397B41C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
