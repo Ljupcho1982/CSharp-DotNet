@@ -1,0 +1,14 @@
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Data_Structures_Collections\Towers of Hanoi\bin\Debug\net6.0\Towers of Hanoi.exe
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Data_Structures_Collections\Towers of Hanoi\bin\Debug\net6.0\Towers of Hanoi.deps.json
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Data_Structures_Collections\Towers of Hanoi\bin\Debug\net6.0\Towers of Hanoi.runtimeconfig.json
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Data_Structures_Collections\Towers of Hanoi\bin\Debug\net6.0\Towers of Hanoi.dll
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Data_Structures_Collections\Towers of Hanoi\bin\Debug\net6.0\ref\Towers of Hanoi.dll
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Data_Structures_Collections\Towers of Hanoi\bin\Debug\net6.0\Towers of Hanoi.pdb
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Data_Structures_Collections\Towers of Hanoi\obj\Debug\net6.0\Towers of Hanoi.GeneratedMSBuildEditorConfig.editorconfig
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Data_Structures_Collections\Towers of Hanoi\obj\Debug\net6.0\Towers of Hanoi.AssemblyInfoInputs.cache
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Data_Structures_Collections\Towers of Hanoi\obj\Debug\net6.0\Towers of Hanoi.AssemblyInfo.cs
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Data_Structures_Collections\Towers of Hanoi\obj\Debug\net6.0\Towers of Hanoi.csproj.CoreCompileInputs.cache
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Data_Structures_Collections\Towers of Hanoi\obj\Debug\net6.0\Towers of Hanoi.dll
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Data_Structures_Collections\Towers of Hanoi\obj\Debug\net6.0\ref\Towers of Hanoi.dll
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Data_Structures_Collections\Towers of Hanoi\obj\Debug\net6.0\Towers of Hanoi.pdb
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Data_Structures_Collections\Towers of Hanoi\obj\Debug\net6.0\Towers of Hanoi.genruntimeconfig.cache
