@@ -1,0 +1,5 @@
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Searching_And_Sorting\obj\Debug\net6.0\Searching_And_Sorting.csproj.AssemblyReference.cache
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Searching_And_Sorting\obj\Debug\net6.0\Searching_And_Sorting.GeneratedMSBuildEditorConfig.editorconfig
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Searching_And_Sorting\obj\Debug\net6.0\Searching_And_Sorting.AssemblyInfoInputs.cache
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Searching_And_Sorting\obj\Debug\net6.0\Searching_And_Sorting.AssemblyInfo.cs
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Searching_And_Sorting\obj\Debug\net6.0\Searching_And_Sorting.csproj.CoreCompileInputs.cache
