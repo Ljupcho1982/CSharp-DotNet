@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Persons", "..\Persons\Perso
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Binarry_Search", "..\Binarry_Search\Binarry_Search.csproj", "{391A9437-FA17-4434-9D28-5A9B2B488D6E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Built-In Binarry Search Method", "..\Built-In Binarry Search Method\Built-In Binarry Search Method.csproj", "{7CC5E8DD-AF1D-4729-94F2-879DEF4DD8B1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{391A9437-FA17-4434-9D28-5A9B2B488D6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{391A9437-FA17-4434-9D28-5A9B2B488D6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{391A9437-FA17-4434-9D28-5A9B2B488D6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CC5E8DD-AF1D-4729-94F2-879DEF4DD8B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CC5E8DD-AF1D-4729-94F2-879DEF4DD8B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CC5E8DD-AF1D-4729-94F2-879DEF4DD8B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CC5E8DD-AF1D-4729-94F2-879DEF4DD8B1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

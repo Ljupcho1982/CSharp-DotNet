@@ -1,0 +1,14 @@
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Built-In Binarry Search Method\bin\Debug\net6.0\Built-In Binarry Search Method.exe
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Built-In Binarry Search Method\bin\Debug\net6.0\Built-In Binarry Search Method.deps.json
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Built-In Binarry Search Method\bin\Debug\net6.0\Built-In Binarry Search Method.runtimeconfig.json
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Built-In Binarry Search Method\bin\Debug\net6.0\Built-In Binarry Search Method.dll
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Built-In Binarry Search Method\bin\Debug\net6.0\ref\Built-In Binarry Search Method.dll
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Built-In Binarry Search Method\bin\Debug\net6.0\Built-In Binarry Search Method.pdb
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Built-In Binarry Search Method\obj\Debug\net6.0\Built-In Binarry Search Method.GeneratedMSBuildEditorConfig.editorconfig
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Built-In Binarry Search Method\obj\Debug\net6.0\Built-In Binarry Search Method.AssemblyInfoInputs.cache
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Built-In Binarry Search Method\obj\Debug\net6.0\Built-In Binarry Search Method.AssemblyInfo.cs
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Built-In Binarry Search Method\obj\Debug\net6.0\Built-In Binarry Search Method.csproj.CoreCompileInputs.cache
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Built-In Binarry Search Method\obj\Debug\net6.0\Built-In Binarry Search Method.dll
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Built-In Binarry Search Method\obj\Debug\net6.0\ref\Built-In Binarry Search Method.dll
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Built-In Binarry Search Method\obj\Debug\net6.0\Built-In Binarry Search Method.pdb
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Built-In Binarry Search Method\obj\Debug\net6.0\Built-In Binarry Search Method.genruntimeconfig.cache
