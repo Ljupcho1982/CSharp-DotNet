@@ -1,0 +1,15 @@
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\LinearSearch\obj\Debug\net6.0\LinearSearch.csproj.AssemblyReference.cache
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\LinearSearch\obj\Debug\net6.0\LinearSearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\LinearSearch\obj\Debug\net6.0\LinearSearch.AssemblyInfoInputs.cache
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\LinearSearch\obj\Debug\net6.0\LinearSearch.AssemblyInfo.cs
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\LinearSearch\obj\Debug\net6.0\LinearSearch.csproj.CoreCompileInputs.cache
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\LinearSearch\bin\Debug\net6.0\LinearSearch.exe
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\LinearSearch\bin\Debug\net6.0\LinearSearch.deps.json
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\LinearSearch\bin\Debug\net6.0\LinearSearch.runtimeconfig.json
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\LinearSearch\bin\Debug\net6.0\LinearSearch.dll
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\LinearSearch\bin\Debug\net6.0\ref\LinearSearch.dll
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\LinearSearch\bin\Debug\net6.0\LinearSearch.pdb
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\LinearSearch\obj\Debug\net6.0\LinearSearch.dll
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\LinearSearch\obj\Debug\net6.0\ref\LinearSearch.dll
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\LinearSearch\obj\Debug\net6.0\LinearSearch.pdb
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\LinearSearch\obj\Debug\net6.0\LinearSearch.genruntimeconfig.cache

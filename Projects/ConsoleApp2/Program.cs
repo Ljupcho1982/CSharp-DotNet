@@ -7,7 +7,7 @@ namespace ConsoleApp2
     {
         static void Main(string[] args)
         {
-            static int linearSearch(List<int> elements, int x)
+            int linearSearch(List<int> elements, int x)
             {
                 int length = elements.Count;
 
@@ -22,10 +22,13 @@ namespace ConsoleApp2
                 }
                 return -1;
             }
+
             List<int> elements = new List<int>() { 1, 2, 3, 4, 5 };
 
-            Console.WriteLine(linearSearch(elements, 3));
+            int result = linearSearch(elements, 3);
+
+            Console.WriteLine(result);
         }
     }
-    }
+}
 

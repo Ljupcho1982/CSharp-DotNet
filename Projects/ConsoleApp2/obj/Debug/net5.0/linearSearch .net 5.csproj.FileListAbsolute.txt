@@ -1,0 +1,16 @@
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\ConsoleApp2\bin\Debug\net5.0\linearSearch .net 5.exe
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\ConsoleApp2\bin\Debug\net5.0\linearSearch .net 5.deps.json
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\ConsoleApp2\bin\Debug\net5.0\linearSearch .net 5.runtimeconfig.json
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\ConsoleApp2\bin\Debug\net5.0\linearSearch .net 5.runtimeconfig.dev.json
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\ConsoleApp2\bin\Debug\net5.0\linearSearch .net 5.dll
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\ConsoleApp2\bin\Debug\net5.0\ref\linearSearch .net 5.dll
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\ConsoleApp2\bin\Debug\net5.0\linearSearch .net 5.pdb
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\ConsoleApp2\obj\Debug\net5.0\linearSearch .net 5.csproj.AssemblyReference.cache
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\ConsoleApp2\obj\Debug\net5.0\linearSearch .net 5.GeneratedMSBuildEditorConfig.editorconfig
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\ConsoleApp2\obj\Debug\net5.0\linearSearch .net 5.AssemblyInfoInputs.cache
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\ConsoleApp2\obj\Debug\net5.0\linearSearch .net 5.AssemblyInfo.cs
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\ConsoleApp2\obj\Debug\net5.0\linearSearch .net 5.csproj.CoreCompileInputs.cache
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\ConsoleApp2\obj\Debug\net5.0\linearSearch .net 5.dll
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\ConsoleApp2\obj\Debug\net5.0\ref\linearSearch .net 5.dll
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\ConsoleApp2\obj\Debug\net5.0\linearSearch .net 5.pdb
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\ConsoleApp2\obj\Debug\net5.0\linearSearch .net 5.genruntimeconfig.cache

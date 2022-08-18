@@ -6,10 +6,12 @@ using System.Threading.Tasks;
 
 namespace LinearSearch
 {
-    internal class Class1
+    internal static class Class1
     {
+        public static List<int> List { get; set; }
 
-        int linearSearch(List<int> elements, int x)
+
+        public static int linearSearch(List<int> elements, int x)
         {
             int length = elements.Count;
 
