@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Built-In Binarry Search Met
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interpolation Search", "..\Interpolation Search\Interpolation Search.csproj", "{16ECE313-964D-4888-88EF-40229B6D5A02}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Depth_First_Traversal(Trees and Graphs)", "..\Depth_First_Traversal(Trees and Graphs)\Depth_First_Traversal(Trees and Graphs).csproj", "{583B1204-8215-492C-9714-F0A4DEC094C6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{16ECE313-964D-4888-88EF-40229B6D5A02}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{16ECE313-964D-4888-88EF-40229B6D5A02}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{16ECE313-964D-4888-88EF-40229B6D5A02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{583B1204-8215-492C-9714-F0A4DEC094C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{583B1204-8215-492C-9714-F0A4DEC094C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{583B1204-8215-492C-9714-F0A4DEC094C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{583B1204-8215-492C-9714-F0A4DEC094C6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

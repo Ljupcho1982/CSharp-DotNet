@@ -1,0 +1,15 @@
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Depth_First_Traversal(Trees and Graphs)\bin\Debug\net6.0\Depth_First_Traversal(Trees and Graphs).exe
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Depth_First_Traversal(Trees and Graphs)\bin\Debug\net6.0\Depth_First_Traversal(Trees and Graphs).deps.json
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Depth_First_Traversal(Trees and Graphs)\bin\Debug\net6.0\Depth_First_Traversal(Trees and Graphs).runtimeconfig.json
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Depth_First_Traversal(Trees and Graphs)\bin\Debug\net6.0\Depth_First_Traversal(Trees and Graphs).dll
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Depth_First_Traversal(Trees and Graphs)\bin\Debug\net6.0\ref\Depth_First_Traversal(Trees and Graphs).dll
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Depth_First_Traversal(Trees and Graphs)\bin\Debug\net6.0\Depth_First_Traversal(Trees and Graphs).pdb
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Depth_First_Traversal(Trees and Graphs)\obj\Debug\net6.0\Depth_First_Traversal(Trees and Graphs).csproj.AssemblyReference.cache
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Depth_First_Traversal(Trees and Graphs)\obj\Debug\net6.0\Depth_First_Traversal(Trees and Graphs).GeneratedMSBuildEditorConfig.editorconfig
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Depth_First_Traversal(Trees and Graphs)\obj\Debug\net6.0\Depth_First_Traversal(Trees and Graphs).AssemblyInfoInputs.cache
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Depth_First_Traversal(Trees and Graphs)\obj\Debug\net6.0\Depth_First_Traversal(Trees and Graphs).AssemblyInfo.cs
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Depth_First_Traversal(Trees and Graphs)\obj\Debug\net6.0\Depth_First_Traversal(Trees and Graphs).csproj.CoreCompileInputs.cache
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Depth_First_Traversal(Trees and Graphs)\obj\Debug\net6.0\Depth_First_Traversal(Trees and Graphs).dll
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Depth_First_Traversal(Trees and Graphs)\obj\Debug\net6.0\ref\Depth_First_Traversal(Trees and Graphs).dll
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Depth_First_Traversal(Trees and Graphs)\obj\Debug\net6.0\Depth_First_Traversal(Trees and Graphs).pdb
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Depth_First_Traversal(Trees and Graphs)\obj\Debug\net6.0\Depth_First_Traversal(Trees and Graphs).genruntimeconfig.cache
