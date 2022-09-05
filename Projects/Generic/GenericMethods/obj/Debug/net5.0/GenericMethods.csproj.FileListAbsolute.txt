@@ -1,0 +1,16 @@
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Generic\GenericMethods\obj\Debug\net5.0\GenericMethods.csproj.AssemblyReference.cache
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Generic\GenericMethods\obj\Debug\net5.0\GenericMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Generic\GenericMethods\obj\Debug\net5.0\GenericMethods.AssemblyInfoInputs.cache
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Generic\GenericMethods\obj\Debug\net5.0\GenericMethods.AssemblyInfo.cs
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Generic\GenericMethods\obj\Debug\net5.0\GenericMethods.csproj.CoreCompileInputs.cache
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Generic\GenericMethods\bin\Debug\net5.0\GenericMethods.exe
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Generic\GenericMethods\bin\Debug\net5.0\GenericMethods.deps.json
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Generic\GenericMethods\bin\Debug\net5.0\GenericMethods.runtimeconfig.json
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Generic\GenericMethods\bin\Debug\net5.0\GenericMethods.runtimeconfig.dev.json
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Generic\GenericMethods\bin\Debug\net5.0\GenericMethods.dll
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Generic\GenericMethods\bin\Debug\net5.0\GenericMethods.pdb
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Generic\GenericMethods\obj\Debug\net5.0\GenericMethods.dll
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Generic\GenericMethods\obj\Debug\net5.0\refint\GenericMethods.dll
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Generic\GenericMethods\obj\Debug\net5.0\GenericMethods.pdb
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Generic\GenericMethods\obj\Debug\net5.0\GenericMethods.genruntimeconfig.cache
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Generic\GenericMethods\obj\Debug\net5.0\ref\GenericMethods.dll
