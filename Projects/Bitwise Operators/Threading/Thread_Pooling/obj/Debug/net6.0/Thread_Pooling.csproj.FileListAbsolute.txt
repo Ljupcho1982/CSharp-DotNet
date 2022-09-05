@@ -1,0 +1,15 @@
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Bitwise Operators\Threading\Thread_Pooling\bin\Debug\net6.0\Thread_Pooling.exe
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Bitwise Operators\Threading\Thread_Pooling\bin\Debug\net6.0\Thread_Pooling.deps.json
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Bitwise Operators\Threading\Thread_Pooling\bin\Debug\net6.0\Thread_Pooling.runtimeconfig.json
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Bitwise Operators\Threading\Thread_Pooling\bin\Debug\net6.0\Thread_Pooling.dll
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Bitwise Operators\Threading\Thread_Pooling\bin\Debug\net6.0\Thread_Pooling.pdb
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Bitwise Operators\Threading\Thread_Pooling\obj\Debug\net6.0\Thread_Pooling.csproj.AssemblyReference.cache
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Bitwise Operators\Threading\Thread_Pooling\obj\Debug\net6.0\Thread_Pooling.GeneratedMSBuildEditorConfig.editorconfig
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Bitwise Operators\Threading\Thread_Pooling\obj\Debug\net6.0\Thread_Pooling.AssemblyInfoInputs.cache
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Bitwise Operators\Threading\Thread_Pooling\obj\Debug\net6.0\Thread_Pooling.AssemblyInfo.cs
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Bitwise Operators\Threading\Thread_Pooling\obj\Debug\net6.0\Thread_Pooling.csproj.CoreCompileInputs.cache
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Bitwise Operators\Threading\Thread_Pooling\obj\Debug\net6.0\Thread_Pooling.dll
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Bitwise Operators\Threading\Thread_Pooling\obj\Debug\net6.0\refint\Thread_Pooling.dll
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Bitwise Operators\Threading\Thread_Pooling\obj\Debug\net6.0\Thread_Pooling.pdb
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Bitwise Operators\Threading\Thread_Pooling\obj\Debug\net6.0\Thread_Pooling.genruntimeconfig.cache
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Bitwise Operators\Threading\Thread_Pooling\obj\Debug\net6.0\ref\Thread_Pooling.dll

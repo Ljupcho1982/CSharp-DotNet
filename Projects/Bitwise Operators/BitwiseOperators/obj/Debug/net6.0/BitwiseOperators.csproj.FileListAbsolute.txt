@@ -1,0 +1,15 @@
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Bitwise Operators\BitwiseOperators\bin\Debug\net6.0\BitwiseOperators.exe
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Bitwise Operators\BitwiseOperators\bin\Debug\net6.0\BitwiseOperators.deps.json
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Bitwise Operators\BitwiseOperators\bin\Debug\net6.0\BitwiseOperators.runtimeconfig.json
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Bitwise Operators\BitwiseOperators\bin\Debug\net6.0\BitwiseOperators.dll
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Bitwise Operators\BitwiseOperators\bin\Debug\net6.0\BitwiseOperators.pdb
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Bitwise Operators\BitwiseOperators\obj\Debug\net6.0\BitwiseOperators.csproj.AssemblyReference.cache
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Bitwise Operators\BitwiseOperators\obj\Debug\net6.0\BitwiseOperators.GeneratedMSBuildEditorConfig.editorconfig
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Bitwise Operators\BitwiseOperators\obj\Debug\net6.0\BitwiseOperators.AssemblyInfoInputs.cache
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Bitwise Operators\BitwiseOperators\obj\Debug\net6.0\BitwiseOperators.AssemblyInfo.cs
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Bitwise Operators\BitwiseOperators\obj\Debug\net6.0\BitwiseOperators.csproj.CoreCompileInputs.cache
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Bitwise Operators\BitwiseOperators\obj\Debug\net6.0\BitwiseOperators.dll
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Bitwise Operators\BitwiseOperators\obj\Debug\net6.0\refint\BitwiseOperators.dll
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Bitwise Operators\BitwiseOperators\obj\Debug\net6.0\BitwiseOperators.pdb
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Bitwise Operators\BitwiseOperators\obj\Debug\net6.0\BitwiseOperators.genruntimeconfig.cache
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Bitwise Operators\BitwiseOperators\obj\Debug\net6.0\ref\BitwiseOperators.dll

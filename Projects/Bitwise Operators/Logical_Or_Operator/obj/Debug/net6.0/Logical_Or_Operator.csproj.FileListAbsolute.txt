@@ -1,0 +1,15 @@
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Bitwise Operators\Logical_Or_Operator\bin\Debug\net6.0\Logical_Or_Operator.exe
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Bitwise Operators\Logical_Or_Operator\bin\Debug\net6.0\Logical_Or_Operator.deps.json
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Bitwise Operators\Logical_Or_Operator\bin\Debug\net6.0\Logical_Or_Operator.runtimeconfig.json
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Bitwise Operators\Logical_Or_Operator\bin\Debug\net6.0\Logical_Or_Operator.dll
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Bitwise Operators\Logical_Or_Operator\bin\Debug\net6.0\Logical_Or_Operator.pdb
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Bitwise Operators\Logical_Or_Operator\obj\Debug\net6.0\Logical_Or_Operator.csproj.AssemblyReference.cache
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Bitwise Operators\Logical_Or_Operator\obj\Debug\net6.0\Logical_Or_Operator.GeneratedMSBuildEditorConfig.editorconfig
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Bitwise Operators\Logical_Or_Operator\obj\Debug\net6.0\Logical_Or_Operator.AssemblyInfoInputs.cache
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Bitwise Operators\Logical_Or_Operator\obj\Debug\net6.0\Logical_Or_Operator.AssemblyInfo.cs
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Bitwise Operators\Logical_Or_Operator\obj\Debug\net6.0\Logical_Or_Operator.csproj.CoreCompileInputs.cache
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Bitwise Operators\Logical_Or_Operator\obj\Debug\net6.0\Logical_Or_Operator.dll
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Bitwise Operators\Logical_Or_Operator\obj\Debug\net6.0\refint\Logical_Or_Operator.dll
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Bitwise Operators\Logical_Or_Operator\obj\Debug\net6.0\Logical_Or_Operator.pdb
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Bitwise Operators\Logical_Or_Operator\obj\Debug\net6.0\Logical_Or_Operator.genruntimeconfig.cache
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Bitwise Operators\Logical_Or_Operator\obj\Debug\net6.0\ref\Logical_Or_Operator.dll

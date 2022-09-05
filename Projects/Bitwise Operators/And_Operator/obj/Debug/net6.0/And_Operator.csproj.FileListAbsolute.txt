@@ -1,0 +1,15 @@
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Bitwise Operators\And_Operator\bin\Debug\net6.0\And_Operator.exe
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Bitwise Operators\And_Operator\bin\Debug\net6.0\And_Operator.deps.json
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Bitwise Operators\And_Operator\bin\Debug\net6.0\And_Operator.runtimeconfig.json
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Bitwise Operators\And_Operator\bin\Debug\net6.0\And_Operator.dll
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Bitwise Operators\And_Operator\bin\Debug\net6.0\And_Operator.pdb
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Bitwise Operators\And_Operator\obj\Debug\net6.0\And_Operator.csproj.AssemblyReference.cache
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Bitwise Operators\And_Operator\obj\Debug\net6.0\And_Operator.GeneratedMSBuildEditorConfig.editorconfig
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Bitwise Operators\And_Operator\obj\Debug\net6.0\And_Operator.AssemblyInfoInputs.cache
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Bitwise Operators\And_Operator\obj\Debug\net6.0\And_Operator.AssemblyInfo.cs
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Bitwise Operators\And_Operator\obj\Debug\net6.0\And_Operator.csproj.CoreCompileInputs.cache
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Bitwise Operators\And_Operator\obj\Debug\net6.0\And_Operator.dll
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Bitwise Operators\And_Operator\obj\Debug\net6.0\refint\And_Operator.dll
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Bitwise Operators\And_Operator\obj\Debug\net6.0\And_Operator.pdb
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Bitwise Operators\And_Operator\obj\Debug\net6.0\And_Operator.genruntimeconfig.cache
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Bitwise Operators\And_Operator\obj\Debug\net6.0\ref\And_Operator.dll

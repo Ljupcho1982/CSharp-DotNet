@@ -1,0 +1,15 @@
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Bitwise Operators\Right_Shift_Operator\bin\Debug\net6.0\Right_Shift_Operator.exe
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Bitwise Operators\Right_Shift_Operator\bin\Debug\net6.0\Right_Shift_Operator.deps.json
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Bitwise Operators\Right_Shift_Operator\bin\Debug\net6.0\Right_Shift_Operator.runtimeconfig.json
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Bitwise Operators\Right_Shift_Operator\bin\Debug\net6.0\Right_Shift_Operator.dll
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Bitwise Operators\Right_Shift_Operator\bin\Debug\net6.0\Right_Shift_Operator.pdb
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Bitwise Operators\Right_Shift_Operator\obj\Debug\net6.0\Right_Shift_Operator.csproj.AssemblyReference.cache
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Bitwise Operators\Right_Shift_Operator\obj\Debug\net6.0\Right_Shift_Operator.GeneratedMSBuildEditorConfig.editorconfig
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Bitwise Operators\Right_Shift_Operator\obj\Debug\net6.0\Right_Shift_Operator.AssemblyInfoInputs.cache
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Bitwise Operators\Right_Shift_Operator\obj\Debug\net6.0\Right_Shift_Operator.AssemblyInfo.cs
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Bitwise Operators\Right_Shift_Operator\obj\Debug\net6.0\Right_Shift_Operator.csproj.CoreCompileInputs.cache
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Bitwise Operators\Right_Shift_Operator\obj\Debug\net6.0\Right_Shift_Operator.dll
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Bitwise Operators\Right_Shift_Operator\obj\Debug\net6.0\refint\Right_Shift_Operator.dll
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Bitwise Operators\Right_Shift_Operator\obj\Debug\net6.0\Right_Shift_Operator.pdb
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Bitwise Operators\Right_Shift_Operator\obj\Debug\net6.0\Right_Shift_Operator.genruntimeconfig.cache
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Bitwise Operators\Right_Shift_Operator\obj\Debug\net6.0\ref\Right_Shift_Operator.dll

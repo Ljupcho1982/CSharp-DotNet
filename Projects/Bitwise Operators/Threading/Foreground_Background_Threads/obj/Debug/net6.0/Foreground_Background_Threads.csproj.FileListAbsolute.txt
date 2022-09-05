@@ -1,0 +1,15 @@
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Bitwise Operators\Threading\Foreground_Background_Threads\bin\Debug\net6.0\Foreground_Background_Threads.exe
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Bitwise Operators\Threading\Foreground_Background_Threads\bin\Debug\net6.0\Foreground_Background_Threads.deps.json
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Bitwise Operators\Threading\Foreground_Background_Threads\bin\Debug\net6.0\Foreground_Background_Threads.runtimeconfig.json
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Bitwise Operators\Threading\Foreground_Background_Threads\bin\Debug\net6.0\Foreground_Background_Threads.dll
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Bitwise Operators\Threading\Foreground_Background_Threads\bin\Debug\net6.0\Foreground_Background_Threads.pdb
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Bitwise Operators\Threading\Foreground_Background_Threads\obj\Debug\net6.0\Foreground_Background_Threads.csproj.AssemblyReference.cache
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Bitwise Operators\Threading\Foreground_Background_Threads\obj\Debug\net6.0\Foreground_Background_Threads.GeneratedMSBuildEditorConfig.editorconfig
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Bitwise Operators\Threading\Foreground_Background_Threads\obj\Debug\net6.0\Foreground_Background_Threads.AssemblyInfoInputs.cache
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Bitwise Operators\Threading\Foreground_Background_Threads\obj\Debug\net6.0\Foreground_Background_Threads.AssemblyInfo.cs
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Bitwise Operators\Threading\Foreground_Background_Threads\obj\Debug\net6.0\Foreground_Background_Threads.csproj.CoreCompileInputs.cache
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Bitwise Operators\Threading\Foreground_Background_Threads\obj\Debug\net6.0\Foreground_Background_Threads.dll
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Bitwise Operators\Threading\Foreground_Background_Threads\obj\Debug\net6.0\refint\Foreground_Background_Threads.dll
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Bitwise Operators\Threading\Foreground_Background_Threads\obj\Debug\net6.0\Foreground_Background_Threads.pdb
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Bitwise Operators\Threading\Foreground_Background_Threads\obj\Debug\net6.0\Foreground_Background_Threads.genruntimeconfig.cache
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Bitwise Operators\Threading\Foreground_Background_Threads\obj\Debug\net6.0\ref\Foreground_Background_Threads.dll
