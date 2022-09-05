@@ -1,0 +1,16 @@
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Object Oriented Programing\Abstratction\bin\Debug\net5.0\Abstratction.exe
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Object Oriented Programing\Abstratction\bin\Debug\net5.0\Abstratction.deps.json
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Object Oriented Programing\Abstratction\bin\Debug\net5.0\Abstratction.runtimeconfig.json
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Object Oriented Programing\Abstratction\bin\Debug\net5.0\Abstratction.runtimeconfig.dev.json
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Object Oriented Programing\Abstratction\bin\Debug\net5.0\Abstratction.dll
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Object Oriented Programing\Abstratction\bin\Debug\net5.0\Abstratction.pdb
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Object Oriented Programing\Abstratction\obj\Debug\net5.0\Abstratction.csproj.AssemblyReference.cache
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Object Oriented Programing\Abstratction\obj\Debug\net5.0\Abstratction.GeneratedMSBuildEditorConfig.editorconfig
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Object Oriented Programing\Abstratction\obj\Debug\net5.0\Abstratction.AssemblyInfoInputs.cache
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Object Oriented Programing\Abstratction\obj\Debug\net5.0\Abstratction.AssemblyInfo.cs
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Object Oriented Programing\Abstratction\obj\Debug\net5.0\Abstratction.csproj.CoreCompileInputs.cache
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Object Oriented Programing\Abstratction\obj\Debug\net5.0\Abstratction.dll
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Object Oriented Programing\Abstratction\obj\Debug\net5.0\refint\Abstratction.dll
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Object Oriented Programing\Abstratction\obj\Debug\net5.0\Abstratction.pdb
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Object Oriented Programing\Abstratction\obj\Debug\net5.0\Abstratction.genruntimeconfig.cache
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Object Oriented Programing\Abstratction\obj\Debug\net5.0\ref\Abstratction.dll

@@ -1,0 +1,16 @@
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Object Oriented Programing\Polymorphism\obj\Debug\net5.0\Polymorphism.csproj.AssemblyReference.cache
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Object Oriented Programing\Polymorphism\obj\Debug\net5.0\Polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Object Oriented Programing\Polymorphism\obj\Debug\net5.0\Polymorphism.AssemblyInfoInputs.cache
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Object Oriented Programing\Polymorphism\obj\Debug\net5.0\Polymorphism.AssemblyInfo.cs
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Object Oriented Programing\Polymorphism\obj\Debug\net5.0\Polymorphism.csproj.CoreCompileInputs.cache
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Object Oriented Programing\Polymorphism\bin\Debug\net5.0\Polymorphism.exe
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Object Oriented Programing\Polymorphism\bin\Debug\net5.0\Polymorphism.deps.json
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Object Oriented Programing\Polymorphism\bin\Debug\net5.0\Polymorphism.runtimeconfig.json
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Object Oriented Programing\Polymorphism\bin\Debug\net5.0\Polymorphism.runtimeconfig.dev.json
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Object Oriented Programing\Polymorphism\bin\Debug\net5.0\Polymorphism.dll
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Object Oriented Programing\Polymorphism\bin\Debug\net5.0\Polymorphism.pdb
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Object Oriented Programing\Polymorphism\obj\Debug\net5.0\Polymorphism.dll
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Object Oriented Programing\Polymorphism\obj\Debug\net5.0\refint\Polymorphism.dll
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Object Oriented Programing\Polymorphism\obj\Debug\net5.0\Polymorphism.pdb
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Object Oriented Programing\Polymorphism\obj\Debug\net5.0\Polymorphism.genruntimeconfig.cache
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Object Oriented Programing\Polymorphism\obj\Debug\net5.0\ref\Polymorphism.dll

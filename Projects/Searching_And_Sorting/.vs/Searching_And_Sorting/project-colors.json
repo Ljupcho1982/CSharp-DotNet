@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c723a211-2c7c-4148-abc7-6dee40fdeb89": {
+      "ProjectGuid": "c723a211-2c7c-4148-abc7-6dee40fdeb89",
+      "DisplayName": "Searching_And_Sorting",
+      "ColorIndex": 0
+    },
+    "fcfc8a2e-8c2a-40b5-8ade-877a1226e64a": {
+      "ProjectGuid": "fcfc8a2e-8c2a-40b5-8ade-877a1226e64a",
+      "DisplayName": "LinearSearch",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "93366b45-e4c8-47f5-a000-bc3b19005a0f": {
+      "ProjectGuid": "93366b45-e4c8-47f5-a000-bc3b19005a0f",
+      "DisplayName": "linearSearch .net 5",
+      "ColorIndex": 2
+    },
+    "3b1e7b35-079e-4709-8173-04dbc0b9f9f3": {
+      "ProjectGuid": "3b1e7b35-079e-4709-8173-04dbc0b9f9f3",
+      "DisplayName": "Persons",
+      "ColorIndex": 3
+    },
+    "391a9437-fa17-4434-9d28-5a9b2b488d6e": {
+      "ProjectGuid": "391a9437-fa17-4434-9d28-5a9b2b488d6e",
+      "DisplayName": "Binarry_Search",
+      "ColorIndex": 4
+    },
+    "7cc5e8dd-af1d-4729-94f2-879def4dd8b1": {
+      "ProjectGuid": "7cc5e8dd-af1d-4729-94f2-879def4dd8b1",
+      "DisplayName": "Built-In Binarry Search Method",
+      "ColorIndex": 5
+    },
+    "16ece313-964d-4888-88ef-40229b6d5a02": {
+      "ProjectGuid": "16ece313-964d-4888-88ef-40229b6d5a02",
+      "DisplayName": "Interpolation Search",
+      "ColorIndex": 6
+    },
+    "583b1204-8215-492c-9714-f0a4dec094c6": {
+      "ProjectGuid": "583b1204-8215-492c-9714-f0a4dec094c6",
+      "DisplayName": "Depth_First_Traversal(Trees and Graphs)",
+      "ColorIndex": 7
+    }
+  },
+  "NextColorIndex": 8
+}
