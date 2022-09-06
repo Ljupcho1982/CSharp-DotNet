@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GroupBy and IGrouping", "..
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Distinct, Except, Intersect and Union", "..\Distinct, Except, Intersect and Union\Distinct, Except, Intersect and Union.csproj", "{871C9A0D-AC6E-4E87-9025-410769868EDF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "All, Any and Contains", "..\All, Any and Contains\All, Any and Contains.csproj", "{8A7A85D5-05ED-494C-B273-1E389B83730D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{871C9A0D-AC6E-4E87-9025-410769868EDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{871C9A0D-AC6E-4E87-9025-410769868EDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{871C9A0D-AC6E-4E87-9025-410769868EDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A7A85D5-05ED-494C-B273-1E389B83730D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A7A85D5-05ED-494C-B273-1E389B83730D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A7A85D5-05ED-494C-B273-1E389B83730D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A7A85D5-05ED-494C-B273-1E389B83730D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

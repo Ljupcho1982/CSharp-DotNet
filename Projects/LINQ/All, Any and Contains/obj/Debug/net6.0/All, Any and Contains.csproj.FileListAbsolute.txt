@@ -1,0 +1,15 @@
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\LINQ\All, Any and Contains\bin\Debug\net6.0\All, Any and Contains.exe
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\LINQ\All, Any and Contains\bin\Debug\net6.0\All, Any and Contains.deps.json
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\LINQ\All, Any and Contains\bin\Debug\net6.0\All, Any and Contains.runtimeconfig.json
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\LINQ\All, Any and Contains\bin\Debug\net6.0\All, Any and Contains.dll
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\LINQ\All, Any and Contains\bin\Debug\net6.0\All, Any and Contains.pdb
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\LINQ\All, Any and Contains\obj\Debug\net6.0\All, Any and Contains.csproj.AssemblyReference.cache
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\LINQ\All, Any and Contains\obj\Debug\net6.0\All, Any and Contains.GeneratedMSBuildEditorConfig.editorconfig
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\LINQ\All, Any and Contains\obj\Debug\net6.0\All, Any and Contains.AssemblyInfoInputs.cache
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\LINQ\All, Any and Contains\obj\Debug\net6.0\All, Any and Contains.AssemblyInfo.cs
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\LINQ\All, Any and Contains\obj\Debug\net6.0\All, Any and Contains.csproj.CoreCompileInputs.cache
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\LINQ\All, Any and Contains\obj\Debug\net6.0\All, Any and Contains.dll
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\LINQ\All, Any and Contains\obj\Debug\net6.0\refint\All, Any and Contains.dll
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\LINQ\All, Any and Contains\obj\Debug\net6.0\All, Any and Contains.pdb
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\LINQ\All, Any and Contains\obj\Debug\net6.0\All, Any and Contains.genruntimeconfig.cache
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\LINQ\All, Any and Contains\obj\Debug\net6.0\ref\All, Any and Contains.dll
