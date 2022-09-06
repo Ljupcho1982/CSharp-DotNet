@@ -1,0 +1,15 @@
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\LINQ\Distinct, Except, Intersect and Union\bin\Debug\net6.0\Distinct, Except, Intersect and Union.exe
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\LINQ\Distinct, Except, Intersect and Union\bin\Debug\net6.0\Distinct, Except, Intersect and Union.deps.json
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\LINQ\Distinct, Except, Intersect and Union\bin\Debug\net6.0\Distinct, Except, Intersect and Union.runtimeconfig.json
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\LINQ\Distinct, Except, Intersect and Union\bin\Debug\net6.0\Distinct, Except, Intersect and Union.dll
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\LINQ\Distinct, Except, Intersect and Union\bin\Debug\net6.0\Distinct, Except, Intersect and Union.pdb
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\LINQ\Distinct, Except, Intersect and Union\obj\Debug\net6.0\Distinct, Except, Intersect and Union.csproj.AssemblyReference.cache
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\LINQ\Distinct, Except, Intersect and Union\obj\Debug\net6.0\Distinct, Except, Intersect and Union.GeneratedMSBuildEditorConfig.editorconfig
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\LINQ\Distinct, Except, Intersect and Union\obj\Debug\net6.0\Distinct, Except, Intersect and Union.AssemblyInfoInputs.cache
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\LINQ\Distinct, Except, Intersect and Union\obj\Debug\net6.0\Distinct, Except, Intersect and Union.AssemblyInfo.cs
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\LINQ\Distinct, Except, Intersect and Union\obj\Debug\net6.0\Distinct, Except, Intersect and Union.csproj.CoreCompileInputs.cache
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\LINQ\Distinct, Except, Intersect and Union\obj\Debug\net6.0\Distinct, Except, Intersect and Union.dll
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\LINQ\Distinct, Except, Intersect and Union\obj\Debug\net6.0\refint\Distinct, Except, Intersect and Union.dll
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\LINQ\Distinct, Except, Intersect and Union\obj\Debug\net6.0\Distinct, Except, Intersect and Union.pdb
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\LINQ\Distinct, Except, Intersect and Union\obj\Debug\net6.0\Distinct, Except, Intersect and Union.genruntimeconfig.cache
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\LINQ\Distinct, Except, Intersect and Union\obj\Debug\net6.0\ref\Distinct, Except, Intersect and Union.dll
