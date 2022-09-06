@@ -1,0 +1,15 @@
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\LINQ\OrderBy, ThenBy and Reverse\bin\Debug\net6.0\OrderBy, ThenBy and Reverse.exe
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\LINQ\OrderBy, ThenBy and Reverse\bin\Debug\net6.0\OrderBy, ThenBy and Reverse.deps.json
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\LINQ\OrderBy, ThenBy and Reverse\bin\Debug\net6.0\OrderBy, ThenBy and Reverse.runtimeconfig.json
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\LINQ\OrderBy, ThenBy and Reverse\bin\Debug\net6.0\OrderBy, ThenBy and Reverse.dll
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\LINQ\OrderBy, ThenBy and Reverse\bin\Debug\net6.0\OrderBy, ThenBy and Reverse.pdb
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\LINQ\OrderBy, ThenBy and Reverse\obj\Debug\net6.0\OrderBy, ThenBy and Reverse.csproj.AssemblyReference.cache
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\LINQ\OrderBy, ThenBy and Reverse\obj\Debug\net6.0\OrderBy, ThenBy and Reverse.GeneratedMSBuildEditorConfig.editorconfig
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\LINQ\OrderBy, ThenBy and Reverse\obj\Debug\net6.0\OrderBy, ThenBy and Reverse.AssemblyInfoInputs.cache
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\LINQ\OrderBy, ThenBy and Reverse\obj\Debug\net6.0\OrderBy, ThenBy and Reverse.AssemblyInfo.cs
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\LINQ\OrderBy, ThenBy and Reverse\obj\Debug\net6.0\OrderBy, ThenBy and Reverse.csproj.CoreCompileInputs.cache
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\LINQ\OrderBy, ThenBy and Reverse\obj\Debug\net6.0\OrderBy, ThenBy and Reverse.dll
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\LINQ\OrderBy, ThenBy and Reverse\obj\Debug\net6.0\refint\OrderBy, ThenBy and Reverse.dll
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\LINQ\OrderBy, ThenBy and Reverse\obj\Debug\net6.0\OrderBy, ThenBy and Reverse.pdb
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\LINQ\OrderBy, ThenBy and Reverse\obj\Debug\net6.0\OrderBy, ThenBy and Reverse.genruntimeconfig.cache
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\LINQ\OrderBy, ThenBy and Reverse\obj\Debug\net6.0\ref\OrderBy, ThenBy and Reverse.dll
