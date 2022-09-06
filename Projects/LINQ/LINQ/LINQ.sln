@@ -13,6 +13,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OfTypeandWhere", "..\OfType
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderBy, ThenBy and Reverse", "..\OrderBy, ThenBy and Reverse\OrderBy, ThenBy and Reverse.csproj", "{42D17E33-3A10-439E-AAB6-B1A3D41A8A4A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GroupBy and IGrouping", "..\GroupBy and IGrouping\GroupBy and IGrouping.csproj", "{B7466BF9-1C7A-4BF3-8D59-36872491EB57}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{42D17E33-3A10-439E-AAB6-B1A3D41A8A4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{42D17E33-3A10-439E-AAB6-B1A3D41A8A4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{42D17E33-3A10-439E-AAB6-B1A3D41A8A4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7466BF9-1C7A-4BF3-8D59-36872491EB57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7466BF9-1C7A-4BF3-8D59-36872491EB57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7466BF9-1C7A-4BF3-8D59-36872491EB57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7466BF9-1C7A-4BF3-8D59-36872491EB57}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

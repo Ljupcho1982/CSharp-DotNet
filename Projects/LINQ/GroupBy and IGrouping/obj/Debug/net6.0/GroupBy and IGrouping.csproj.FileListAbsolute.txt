@@ -1,0 +1,15 @@
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\LINQ\GroupBy and IGrouping\bin\Debug\net6.0\GroupBy and IGrouping.exe
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\LINQ\GroupBy and IGrouping\bin\Debug\net6.0\GroupBy and IGrouping.deps.json
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\LINQ\GroupBy and IGrouping\bin\Debug\net6.0\GroupBy and IGrouping.runtimeconfig.json
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\LINQ\GroupBy and IGrouping\bin\Debug\net6.0\GroupBy and IGrouping.dll
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\LINQ\GroupBy and IGrouping\bin\Debug\net6.0\GroupBy and IGrouping.pdb
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\LINQ\GroupBy and IGrouping\obj\Debug\net6.0\GroupBy and IGrouping.csproj.AssemblyReference.cache
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\LINQ\GroupBy and IGrouping\obj\Debug\net6.0\GroupBy and IGrouping.GeneratedMSBuildEditorConfig.editorconfig
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\LINQ\GroupBy and IGrouping\obj\Debug\net6.0\GroupBy and IGrouping.AssemblyInfoInputs.cache
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\LINQ\GroupBy and IGrouping\obj\Debug\net6.0\GroupBy and IGrouping.AssemblyInfo.cs
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\LINQ\GroupBy and IGrouping\obj\Debug\net6.0\GroupBy and IGrouping.csproj.CoreCompileInputs.cache
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\LINQ\GroupBy and IGrouping\obj\Debug\net6.0\GroupBy and IGrouping.dll
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\LINQ\GroupBy and IGrouping\obj\Debug\net6.0\refint\GroupBy and IGrouping.dll
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\LINQ\GroupBy and IGrouping\obj\Debug\net6.0\GroupBy and IGrouping.pdb
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\LINQ\GroupBy and IGrouping\obj\Debug\net6.0\GroupBy and IGrouping.genruntimeconfig.cache
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\LINQ\GroupBy and IGrouping\obj\Debug\net6.0\ref\GroupBy and IGrouping.dll
