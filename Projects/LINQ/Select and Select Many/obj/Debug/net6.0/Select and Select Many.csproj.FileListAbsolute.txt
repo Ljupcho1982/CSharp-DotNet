@@ -1,0 +1,15 @@
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\LINQ\Select and Select Many\bin\Debug\net6.0\Select and Select Many.exe
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\LINQ\Select and Select Many\bin\Debug\net6.0\Select and Select Many.deps.json
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\LINQ\Select and Select Many\bin\Debug\net6.0\Select and Select Many.runtimeconfig.json
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\LINQ\Select and Select Many\bin\Debug\net6.0\Select and Select Many.dll
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\LINQ\Select and Select Many\bin\Debug\net6.0\Select and Select Many.pdb
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\LINQ\Select and Select Many\obj\Debug\net6.0\Select and Select Many.csproj.AssemblyReference.cache
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\LINQ\Select and Select Many\obj\Debug\net6.0\Select and Select Many.GeneratedMSBuildEditorConfig.editorconfig
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\LINQ\Select and Select Many\obj\Debug\net6.0\Select and Select Many.AssemblyInfoInputs.cache
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\LINQ\Select and Select Many\obj\Debug\net6.0\Select and Select Many.AssemblyInfo.cs
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\LINQ\Select and Select Many\obj\Debug\net6.0\Select and Select Many.csproj.CoreCompileInputs.cache
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\LINQ\Select and Select Many\obj\Debug\net6.0\Select and Select Many.dll
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\LINQ\Select and Select Many\obj\Debug\net6.0\refint\Select and Select Many.dll
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\LINQ\Select and Select Many\obj\Debug\net6.0\Select and Select Many.pdb
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\LINQ\Select and Select Many\obj\Debug\net6.0\Select and Select Many.genruntimeconfig.cache
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\LINQ\Select and Select Many\obj\Debug\net6.0\ref\Select and Select Many.dll

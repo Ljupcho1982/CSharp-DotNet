@@ -1,0 +1,15 @@
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\LINQ\OfTypeandWhere\bin\Debug\net6.0\OfTypeandWhere.exe
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\LINQ\OfTypeandWhere\bin\Debug\net6.0\OfTypeandWhere.deps.json
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\LINQ\OfTypeandWhere\bin\Debug\net6.0\OfTypeandWhere.runtimeconfig.json
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\LINQ\OfTypeandWhere\bin\Debug\net6.0\OfTypeandWhere.dll
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\LINQ\OfTypeandWhere\bin\Debug\net6.0\OfTypeandWhere.pdb
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\LINQ\OfTypeandWhere\obj\Debug\net6.0\OfTypeandWhere.csproj.AssemblyReference.cache
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\LINQ\OfTypeandWhere\obj\Debug\net6.0\OfTypeandWhere.GeneratedMSBuildEditorConfig.editorconfig
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\LINQ\OfTypeandWhere\obj\Debug\net6.0\OfTypeandWhere.AssemblyInfoInputs.cache
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\LINQ\OfTypeandWhere\obj\Debug\net6.0\OfTypeandWhere.AssemblyInfo.cs
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\LINQ\OfTypeandWhere\obj\Debug\net6.0\OfTypeandWhere.csproj.CoreCompileInputs.cache
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\LINQ\OfTypeandWhere\obj\Debug\net6.0\OfTypeandWhere.dll
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\LINQ\OfTypeandWhere\obj\Debug\net6.0\refint\OfTypeandWhere.dll
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\LINQ\OfTypeandWhere\obj\Debug\net6.0\OfTypeandWhere.pdb
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\LINQ\OfTypeandWhere\obj\Debug\net6.0\OfTypeandWhere.genruntimeconfig.cache
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\LINQ\OfTypeandWhere\obj\Debug\net6.0\ref\OfTypeandWhere.dll
