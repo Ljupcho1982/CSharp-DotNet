@@ -1,0 +1,15 @@
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Bitwise Operators\Threading\PararlelPrgraming\bin\Debug\net6.0\PararlelPrgraming.exe
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Bitwise Operators\Threading\PararlelPrgraming\bin\Debug\net6.0\PararlelPrgraming.deps.json
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Bitwise Operators\Threading\PararlelPrgraming\bin\Debug\net6.0\PararlelPrgraming.runtimeconfig.json
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Bitwise Operators\Threading\PararlelPrgraming\bin\Debug\net6.0\PararlelPrgraming.dll
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Bitwise Operators\Threading\PararlelPrgraming\bin\Debug\net6.0\PararlelPrgraming.pdb
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Bitwise Operators\Threading\PararlelPrgraming\obj\Debug\net6.0\PararlelPrgraming.csproj.AssemblyReference.cache
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Bitwise Operators\Threading\PararlelPrgraming\obj\Debug\net6.0\PararlelPrgraming.GeneratedMSBuildEditorConfig.editorconfig
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Bitwise Operators\Threading\PararlelPrgraming\obj\Debug\net6.0\PararlelPrgraming.AssemblyInfoInputs.cache
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Bitwise Operators\Threading\PararlelPrgraming\obj\Debug\net6.0\PararlelPrgraming.AssemblyInfo.cs
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Bitwise Operators\Threading\PararlelPrgraming\obj\Debug\net6.0\PararlelPrgraming.csproj.CoreCompileInputs.cache
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Bitwise Operators\Threading\PararlelPrgraming\obj\Debug\net6.0\PararlelPrgraming.dll
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Bitwise Operators\Threading\PararlelPrgraming\obj\Debug\net6.0\refint\PararlelPrgraming.dll
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Bitwise Operators\Threading\PararlelPrgraming\obj\Debug\net6.0\PararlelPrgraming.pdb
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Bitwise Operators\Threading\PararlelPrgraming\obj\Debug\net6.0\PararlelPrgraming.genruntimeconfig.cache
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Bitwise Operators\Threading\PararlelPrgraming\obj\Debug\net6.0\ref\PararlelPrgraming.dll
