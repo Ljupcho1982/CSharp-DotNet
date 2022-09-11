@@ -1,0 +1,5 @@
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Implementing Algorithms in CSharp\obj\Debug\net6.0\Implementing Algorithms in CSharp.csproj.AssemblyReference.cache
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Implementing Algorithms in CSharp\obj\Debug\net6.0\Implementing Algorithms in CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Implementing Algorithms in CSharp\obj\Debug\net6.0\Implementing Algorithms in CSharp.AssemblyInfoInputs.cache
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Implementing Algorithms in CSharp\obj\Debug\net6.0\Implementing Algorithms in CSharp.AssemblyInfo.cs
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Implementing Algorithms in CSharp\obj\Debug\net6.0\Implementing Algorithms in CSharp.csproj.CoreCompileInputs.cache

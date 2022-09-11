@@ -1,0 +1,15 @@
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\n_Choose_K_algorithm\bin\Debug\net6.0\n_Choose_K_algorithm.exe
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\n_Choose_K_algorithm\bin\Debug\net6.0\n_Choose_K_algorithm.deps.json
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\n_Choose_K_algorithm\bin\Debug\net6.0\n_Choose_K_algorithm.runtimeconfig.json
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\n_Choose_K_algorithm\bin\Debug\net6.0\n_Choose_K_algorithm.dll
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\n_Choose_K_algorithm\bin\Debug\net6.0\n_Choose_K_algorithm.pdb
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\n_Choose_K_algorithm\obj\Debug\net6.0\n_Choose_K_algorithm.csproj.AssemblyReference.cache
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\n_Choose_K_algorithm\obj\Debug\net6.0\n_Choose_K_algorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\n_Choose_K_algorithm\obj\Debug\net6.0\n_Choose_K_algorithm.AssemblyInfoInputs.cache
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\n_Choose_K_algorithm\obj\Debug\net6.0\n_Choose_K_algorithm.AssemblyInfo.cs
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\n_Choose_K_algorithm\obj\Debug\net6.0\n_Choose_K_algorithm.csproj.CoreCompileInputs.cache
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\n_Choose_K_algorithm\obj\Debug\net6.0\n_Choose_K_algorithm.dll
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\n_Choose_K_algorithm\obj\Debug\net6.0\refint\n_Choose_K_algorithm.dll
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\n_Choose_K_algorithm\obj\Debug\net6.0\n_Choose_K_algorithm.pdb
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\n_Choose_K_algorithm\obj\Debug\net6.0\n_Choose_K_algorithm.genruntimeconfig.cache
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\n_Choose_K_algorithm\obj\Debug\net6.0\ref\n_Choose_K_algorithm.dll
