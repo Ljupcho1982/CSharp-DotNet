@@ -1,0 +1,15 @@
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Reflections\Reflection with Generic Types\bin\Debug\net6.0\Reflection with Generic Types.exe
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Reflections\Reflection with Generic Types\bin\Debug\net6.0\Reflection with Generic Types.deps.json
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Reflections\Reflection with Generic Types\bin\Debug\net6.0\Reflection with Generic Types.runtimeconfig.json
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Reflections\Reflection with Generic Types\bin\Debug\net6.0\Reflection with Generic Types.dll
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Reflections\Reflection with Generic Types\bin\Debug\net6.0\Reflection with Generic Types.pdb
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Reflections\Reflection with Generic Types\obj\Debug\net6.0\Reflection with Generic Types.csproj.AssemblyReference.cache
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Reflections\Reflection with Generic Types\obj\Debug\net6.0\Reflection with Generic Types.GeneratedMSBuildEditorConfig.editorconfig
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Reflections\Reflection with Generic Types\obj\Debug\net6.0\Reflection with Generic Types.AssemblyInfoInputs.cache
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Reflections\Reflection with Generic Types\obj\Debug\net6.0\Reflection with Generic Types.AssemblyInfo.cs
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Reflections\Reflection with Generic Types\obj\Debug\net6.0\Reflection with Generic Types.csproj.CoreCompileInputs.cache
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Reflections\Reflection with Generic Types\obj\Debug\net6.0\Reflection with Generic Types.dll
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Reflections\Reflection with Generic Types\obj\Debug\net6.0\refint\Reflection with Generic Types.dll
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Reflections\Reflection with Generic Types\obj\Debug\net6.0\Reflection with Generic Types.pdb
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Reflections\Reflection with Generic Types\obj\Debug\net6.0\Reflection with Generic Types.genruntimeconfig.cache
+C:\FullStackDevelopment\CSharp-DotNet\Ljupcho1982\CSharp-DotNet\Projects\Reflections\Reflection with Generic Types\obj\Debug\net6.0\ref\Reflection with Generic Types.dll
